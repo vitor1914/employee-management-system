@@ -1,0 +1,18 @@
+
+# Bancos SQLite locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos auxiliares do SQLite
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Configuracoes do editor
+.vscode/
+
+# Arquivos temporarios
+*.tmp
+*.log
+.DS_Store
